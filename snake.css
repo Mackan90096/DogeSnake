@@ -40,17 +40,17 @@ a.snake-link:hover {
 }
 
 .snake-snakebody-alive {
-   background-image: url('./images/snakeblock.png');
+   background-image: url('http://i.imgur.com/D99L9Rr.png');
 }
 .snake-snakebody-dead {
-   background-image: url('./images/deadblock.png');
+   background-image: url('http://i.imgur.com/DTnKFvk.png');
 }
 
 .snake-food-block {
     margin: 0px;
     padding: 0px;
     background-color: rgba(255,255,255,0.0);
-    background-image: url('./images/snakeblock.png');
+    background-image: url('http://i.imgur.com/D99L9Rr.png');
     border: 0px solid #000080;
     position: absolute;
 }
